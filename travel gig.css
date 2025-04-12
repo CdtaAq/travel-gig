@@ -1,0 +1,19 @@
+TravelGig/
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/example/travelgig/
+│       │       ├── controller/
+│       │       │   └── HotelController.java
+│       │       ├── model/
+│       │       │   └── Hotel.java
+│       │       └── TravelGigApplication.java
+│       └── resources/
+│           ├── application.properties
+│           └── ...
+├── src/main/webapp/
+│   └── WEB-INF/
+│       └── views/
+│           ├── hotel.jsp
+│           └── success.jsp
+├── pom.xml
